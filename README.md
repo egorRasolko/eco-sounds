@@ -1,2 +1,1 @@
-# egorrasolko-JSFEPRESCHOOL
-Private repository for @egorrasolko
+https://egorrasolko.github.io/eco-sounds/
